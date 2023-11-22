@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/head1.jpg</file>
+        <file>icon/head2.jpg</file>
+        <file>icon/logon.jpg</file>
+        <file>icon/password.png</file>
+        <file>icon/password2.png</file>
+        <file>icon/account.png</file>
+        <file>icon/log.jpg</file>
+        <file>icon/account2.png</file>
+        <file>icon/J82t.gif</file>
+        <file>icon/backboung.jpg</file>
+        <file>icon/Blue blur color abstract.gif</file>
+        <file>icon/2.jpg</file>
+        <file>icon/setUp.png</file>
+        <file>icon/break.png</file>
+        <file>icon/break2.png</file>
+        <file>icon/mingwindow_background.png</file>
+    </qresource>
+</RCC>
